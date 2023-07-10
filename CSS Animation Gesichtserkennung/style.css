@@ -28,6 +28,7 @@ body {
     background-color: #888888;
     background-size: 500px;
     border-radius: 2px;
+    
 }
 
 .scan .face::before {
